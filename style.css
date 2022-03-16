@@ -37,6 +37,7 @@ h1 {
     align-items: center;
     flex-direction: column;
     color: #f1f1f1;
+    border-radius: 15px;
     position: absolute;
     top: 60%;
     left: 50%;
